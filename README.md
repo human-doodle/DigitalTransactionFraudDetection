@@ -9,7 +9,7 @@ My attempt on this problem was to resample the data using the following algorith
 3. SMOTE
 4. Near-Miss
 
-The following classification algorithms were used:
+The following classification algorithms were tested on the data:
 1. Logistic Regression
 2. KNN
 3. Random Forest
